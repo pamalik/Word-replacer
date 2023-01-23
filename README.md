@@ -1,2 +1,5 @@
 # beginner-projects
-Easy project to replace a word in a string written in python.
+Easy projects to start with Python.
+
+Word replacer
+Baisc calculator 
